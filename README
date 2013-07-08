@@ -1,0 +1,1 @@
+Download the *.jar, *.so and *.sh files to your folder. Check the *.sh files so that java path is correct. Change the permission on the shell scripts to a+x and you should be good to go.
